@@ -1,2 +1,2 @@
 # Deep-learning
-Exercises in the field of Deep Learning
+An exercise in the field of Deep Learning
